@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mostfa16" alt="mostfa16" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/mostfaboudj" target="blank"><img src="https://img.shields.io/twitter/follow/mostfaboudj?logo=twitter&style=for-the-badge" alt="mostfaboudj" /></a> </p>
+
 - 🔭 I’m currently working on [Ecommerce_phones](https://github.com/mostfa16/Ecommerce_phones)
 
 ### Blogs posts
@@ -14,6 +16,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/mostfa16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mostfa16" height="30" width="40" /></a>
+<a href="https://twitter.com/mostfaboudj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mostfaboudj" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mostefa-boudjema" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostefa-boudjema" height="30" width="40" /></a>
+<a href="https://fb.com/mostfa28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mostfa28" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,3 +27,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostfa16&show_icons=true&locale=en&layout=compact" alt="mostfa16" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mostfa16&show_icons=true&locale=en" alt="mostfa16" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostfa16&" alt="mostfa16" /></p>
