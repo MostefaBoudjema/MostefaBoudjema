@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mostefa Boudjema</h1>
-<h3 align="center">Full Stack Laravel web developer from Algeria</h3>
+<h3 align="center">Full Stack Laravel VueJs web developer from Algeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MostefaBoudjema&label=Profile%20views&color=0e75b6&style=flat" alt="MostefaBoudjema" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MostefaBoudjema" alt="MostefaBoudjema" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mostfaboudj" target="blank"><img src="https://img.shields.io/twitter/follow/mostfaboudj?logo=twitter&style=for-the-badge" alt="mostfaboudj" /></a> </p>
+<p align="left"> <a href="https://twitter.com/MostefaBoudjema" target="blank"><img src="https://img.shields.io/twitter/follow/mostfaboudj?logo=twitter&style=for-the-badge" alt="MostefaBoudjema" /></a> </p>
 
-- 🔭 I’m currently working on [Ecommerce_phones](https://github.com/MostefaBoudjema/Ecommerce_phones)
+- 🔭 I’m currently working on [React-moviedb](https://github.com/MostefaBoudjema/React-moviedb)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/MostefaBoudjema" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="MostefaBoudjema" height="30" width="40" /></a>
-<a href="https://twitter.com/mostfaboudj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mostfaboudj" height="30" width="40" /></a>
+<a href="https://twitter.com/MostefaBoudjema" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MostefaBoudjema" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mostefa-boudjema" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostefa-boudjema" height="30" width="40" /></a>
 <a href="https://fb.com/mostfa28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mostfa28" height="30" width="40" /></a>
 </p>
@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MostefaBoudjema&show_icons=true&locale=en" alt="MostefaBoudjema" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MostefaBoudjema&" alt="MostefaBoudjema" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MostefaBoudjema&" alt="MostefaBoudjema" /></p>-->
