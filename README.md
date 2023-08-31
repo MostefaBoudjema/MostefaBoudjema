@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MostefaBoudjema" alt="MostefaBoudjema" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/MostefaBoudjema" target="blank"><img src="https://img.shields.io/twitter/follow/mostfaboudj?logo=twitter&style=for-the-badge" alt="MostefaBoudjema" /></a> </p>
+<p align="left"> <a href="https://twitter.com/MostefaBoudjema" target="blank"><img src="https://img.shields.io/twitter/follow/MostefaBoudjema?logo=twitter&style=for-the-badge" alt="MostefaBoudjema" /></a> </p>
 
 - 🔭 I’m currently working on [React-moviedb](https://github.com/MostefaBoudjema/React-moviedb)
 
