@@ -1,94 +1,118 @@
-<h1 align="center">Hi 👋 I'm Mostefa Boudjema</h1>
+<h1 align="center">👋 Hi, I'm Mostefa Boudjema</h1>
 
 <h3 align="center">
-🚀 Full-Stack Web Developer | Laravel • Vue.js • API Architect
+🚀 Full-Stack Laravel & Vue.js Developer
 </h3>
 
 <p align="center">
-Building scalable web applications, SaaS platforms, and modern dashboards.
+I build scalable SaaS platforms, dashboards, and modern web applications.
 </p>
 
 <p align="center">
 <a href="https://linkedin.com/in/mostefa-boudjema">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
 </a>
 <a href="https://twitter.com/MostefaBoudjema">
-  <img src="https://img.shields.io/twitter/follow/MostefaBoudjema?style=for-the-badge&logo=twitter">
+<img src="https://img.shields.io/twitter/follow/MostefaBoudjema?style=for-the-badge&logo=twitter">
 </a>
-<a href="https://github.com/MostefaBoudjema">
-  <img src="https://komarev.com/ghpvc/?username=MostefaBoudjema&style=for-the-badge&color=blue">
-</a>
+<img src="https://komarev.com/ghpvc/?username=MostefaBoudjema&style=for-the-badge&color=blue">
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
-- 🔭 Currently building **React MovieDB**
 - 💼 Freelance Full-Stack Developer
-- ⚙️ Specialized in **Laravel + Vue.js Applications**
-- 🧠 Passionate about SaaS architecture & scalable systems
+- ⚙️ Specialized in **Laravel API + Vue SPA Architecture**
+- 🏥 Currently building **Shifa Care**
 - 🌍 Based in Algeria
+- 🚀 Passionate about SaaS & scalable systems
+
+---
+
+## 🏥 Current Project — Shifa Care
+
+### **Shifa Care — Medical Management System**
+
+A modern, lightweight **Medical Management System** built using an API-first architecture.
+
+Designed for clinics and doctors to efficiently manage:
+
+✅ Patients  
+✅ Appointments  
+✅ Consultations  
+✅ Prescriptions  
+✅ Medical Records  
+
+**Tech Architecture**
+
+- Laravel API Backend
+- Vue.js SPA Dashboard
+- RESTful Architecture
+- Role & Permission System
+- Clean Medical Workflow UX
+
+👉 **Project Repository**
+https://github.com/MostefaBoudjema/Shifa-Care
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Backend
-<p>
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,postgresql" />
-</p>
-
-### Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=vue,react,js,html,css,tailwind,sass,bootstrap" />
-</p>
-
-### Tools & DevOps
-<p>
-<img src="https://skillicons.dev/icons?i=git,linux,figma,webpack,vite,heroku" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=php,laravel,vue,react,js,tailwind,nodejs,mysql,postgresql,git,linux,figma,vite" />
 </p>
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Work
 
-### 🎬 React MovieDB
-Modern movie discovery application built using React and external movie APIs.
-
-👉 https://github.com/MostefaBoudjema/React-moviedb
+| Project | Description |
+|---|---|
+| 🏥 **Shifa Care** | Medical Management System |
+| 🎬 **React MovieDB** | Movie discovery SPA |
+| 🚗 **iAuto Platform** | Automotive SaaS platform |
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Dashboard
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MostefaBoudjema&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=MostefaBoudjema&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostefaBoudjema&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostefaBoudjema&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=MostefaBoudjema&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🤝 Connect With Me
+## ⚡ Development Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MostefaBoudjema&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
 
 <p align="center">
 <a href="https://dev.to/MostefaBoudjema">
-<img src="https://skillicons.dev/icons?i=devto" height="40"/>
-</a>
-<a href="https://twitter.com/MostefaBoudjema">
-<img src="https://skillicons.dev/icons?i=twitter" height="40"/>
+<img src="https://skillicons.dev/icons?i=devto" height="45"/>
 </a>
 <a href="https://linkedin.com/in/mostefa-boudjema">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
-<a href="https://fb.com/mostfa28">
-<img src="https://skillicons.dev/icons?i=facebook" height="40"/>
+<a href="https://twitter.com/MostefaBoudjema">
+<img src="https://skillicons.dev/icons?i=twitter" height="45"/>
 </a>
 </p>
 
 ---
 
-⭐️ From [Mostefa Boudjema](https://github.com/MostefaBoudjema)
+⭐️ *Open to freelance projects & SaaS collaborations*
