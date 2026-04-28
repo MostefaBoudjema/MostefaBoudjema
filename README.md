@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Mostefa Boudjema</h1>
 
 <h3 align="center">
-🚀 Full-Stack Laravel & Vue.js Developer
+🚀 Laravel Vue React Developer | API Development | Custom Web Application
 </h3>
 
 <p align="center">
@@ -53,7 +53,7 @@ Designed for clinics and doctors to efficiently manage:
 - Clean Medical Workflow UX
 
 👉 **Project Repository**
-https://github.com/MostefaBoudjema/Shifa-Care
+https://github.com/MostefaBoudjema/laravel13-nuxt4-shifa-care
 
 ---
 
